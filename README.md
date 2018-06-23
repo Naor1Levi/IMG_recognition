@@ -1,5 +1,5 @@
 # IMG_recognition
-OpenCV module that uses camera as an input to find specific img in the stream.
+OpenCV module that uses camera as an input to find specific img in a web camera stream.
 
 My script uses RedMarlboro as the img but you can create your own IMG recognition by those simple steps:
 1. Take a picture of an object you want to identify and replace it with the "marlboro.png" file.
