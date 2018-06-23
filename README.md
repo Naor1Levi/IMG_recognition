@@ -9,12 +9,14 @@ for a good recognition matching rate the picture you shoot for the reconition pr
 
 ![alt tag](https://i.imgrpost.com/imgr/2018/06/23/Screenshot_1.png)
 
+<h2>Usage?</h2>
+just open the script and the recognition will start automatically :)
 
 <h3>Requirements</h3>
 <ul>
   <li> Python2.7 </li>
   <li> OpenCV library </li>
-  <li> numpy library (via pip) </li>
+  <li> Numpy library (via pip) </li>
   <li> Web camera </li>
   <li> Windows or Linux </li>
 </ul>
