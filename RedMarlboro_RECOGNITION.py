@@ -38,7 +38,6 @@ while True:
         #Here you can specify what you want to heppen when the Marlboro is placed
         print ("success")
         break
-        print (len(MatchPoint))
 
     cv2.imshow('LocateIMG',QueryImgBGR)
     if cv2.waitKey(10)==ord('q'):
